@@ -31,9 +31,9 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilnishad&" alt="sahilnishad" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilnishad&show_icons=true&locale=en" alt="sahilnishad" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilnishad&" alt="sahilnishad" />  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilnishad&show_icons=true&locale=en" alt="sahilnishad" /></p>
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilnishad&row=1&&margin-w=13" alt="sahilnishad" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilnishad&row=1&margin-w=10" alt="sahilnishad" /></a> </p>
 
