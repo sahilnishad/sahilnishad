@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently researching on **NLP, specifically Transformers**
 
-- 📝 I write articles on [sahilnishad.medium.com](sahilnishad.medium.com)
+- 📝 I write articles on [sahilnishad.medium.com](https://sahilnishad.medium.com)
 
 - 📫 Mail me: **h20221030054@hyderabad.bits-pilani.ac.in**
 
